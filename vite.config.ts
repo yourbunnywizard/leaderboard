@@ -7,6 +7,11 @@ export default defineConfig({
 	resolve: {
 		alias: {
 			components: '/src/components',
+			types: '/src/types',
+			hooks: '/src/hooks',
+			utils: '/src/utils',
+			store: '/src/store',
+			styles: '/src/styles',
 		},
 	},
 });

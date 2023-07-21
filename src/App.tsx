@@ -1,12 +1,9 @@
-import Test from 'components/Title';
-import './App.css';
-import Aboba from 'components/aboba/Aboba';
+import ScoreTable from 'components/ScoreTable';
 
 function App() {
 	return (
 		<>
-			<Aboba />
-			<Test />
+			<ScoreTable />
 		</>
 	);
 }
