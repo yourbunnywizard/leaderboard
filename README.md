@@ -11,7 +11,7 @@ This is **React** test project.
 
 ## Getting Started
 
-### Step 1: Instal package
+### Step 1: Install package
 
 ```bash
 # using npm
